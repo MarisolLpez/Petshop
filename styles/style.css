@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#lista-head{
+    background-color: #222222;
+    color: white;
+}
+
+#navbar{
+    background-color: #F0A83E;
+    color: white;
+}
+
+#bienvenida{
+    text-align: center;
+    font-size: 250%;
+}
+
+.articulo{
+    background-image: url(../img/bowl-and-pet-daities-on-green-background.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: large;
+    height: 600px;
+    text-align: center;
+}
+
+.boton{
+    color: white;
+    background-color: #F0A83E;
+}
+
+.destacados{
+    background-color: #FBFAF6;
+}
+
+#precio{
+    color: #F0A83E;
+}
+
+.contacto{
+    background-color: #3C2313;
+    color: white;
+}
+
+.footer{
+    background-color: #f0a83e;
+    color: white;
+    text-align: center;
+}
